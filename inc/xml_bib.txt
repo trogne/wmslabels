@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+  <id>urn:oclc:collectionmanagement/LHR/75437</id>
+  <title type="text">Copies</title>
+  <updated>2020-09-29T15:48:26.728Z</updated>
+  <os:totalResults>1</os:totalResults>
+  <os:startIndex>1</os:startIndex>
+  <os:itemsPerPage>10</os:itemsPerPage>
+  <entry>
+    <title type="text"/>
+    <link href="https://circ.sd00.worldcat.org/LHR/321408521?inst=75437"/>
+    <updated>2020-09-08T15:19:21.500Z</updated>
+    <content type="application/xml">
+      <copy xmlns="http://worldcat.org/xmlschemas/Copy-1.0" id="https://circ.sd00.worldcat.org/LHR/321408521?inst=75437">
+        <institution>http://www.worldcat.org/webservices/registry/content/Institutions/75437</institution>
+        <bib>/bibs/1033443432</bib>
+        <lastUpdateDate>2020-09-08T11:19:21.500-04:00</lastUpdateDate>
+        <recordType>MULTI_PART</recordType>
+        <receiptStatus>UNKNOWN</receiptStatus>
+        <holdingLocation>U3QA</holdingLocation>
+        <shelvingLocation>- Coll. générale - Prêt régulier</shelvingLocation>
+        <shelvingDesignation scheme="LIBRARY_OF_CONGRESS">
+          <information>QC23</information>
+          <itemPart>F48 2017 F</itemPart>
+        </shelvingDesignation>
+        <holding category="BASIC">
+          <pieceDesignation>X45072961</pieceDesignation>
+          <note type="STAFF">(HOL)006664642</note>
+          <cost>
+            <currency>CAD</currency>
+            <amount>6410</amount>
+          </cost>
+          <caption id="1" sequence="1">
+            <enumeration label="V.">1</enumeration>
+          </caption>
+        </holding>
+        <holding category="BASIC">
+          <pieceDesignation>X45058983</pieceDesignation>
+          <note type="STAFF">(HOL)006664654</note>
+          <cost>
+            <currency>CAD</currency>
+            <amount>7922</amount>
+          </cost>
+          <caption id="1" sequence="2">
+            <enumeration label="V.">2</enumeration>
+          </caption>
+        </holding>
+        <holding category="BASIC">
+          <pieceDesignation>X45076038</pieceDesignation>
+          <note type="STAFF">Réimpression 2019 avec une nouvelle présentation.</note>
+          <cost>
+            <currency>CAD</currency>
+            <amount>7772</amount>
+          </cost>
+          <caption id="1" sequence="3">
+            <enumeration label="V.">3</enumeration>
+          </caption>
+        </holding>
+        <holding category="BASIC">
+          <pieceDesignation>X45072979</pieceDesignation>
+          <note type="STAFF">(HOL)006664622</note>
+          <cost>
+            <currency>CAD</currency>
+            <amount>6904</amount>
+          </cost>
+          <caption id="1" sequence="4">
+            <enumeration label="V.">4</enumeration>
+          </caption>
+        </holding>
+        <holding category="BASIC">
+          <pieceDesignation>X45072953</pieceDesignation>
+          <note type="STAFF">(HOL)006664639</note>
+          <cost>
+            <currency>CAD</currency>
+            <amount>7232</amount>
+          </cost>
+          <caption id="1" sequence="5">
+            <enumeration label="V.">5</enumeration>
+          </caption>
+        </holding>
+      </copy>
+    </content>
+  </entry>
+</feed>

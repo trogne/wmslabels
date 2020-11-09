@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+  <id>urn:oclc:collectionmanagement/LHR/75437</id>
+  <title type="text">Copies</title>
+  <updated>2020-10-08T14:15:37.787Z</updated>
+  <os:totalResults>1</os:totalResults>
+  <os:startIndex>1</os:startIndex>
+  <os:itemsPerPage>10</os:itemsPerPage>
+  <entry>
+    <title type="text"/>
+    <link href="https://circ.sd00.worldcat.org/LHR/329367976?inst=75437"/>
+    <updated>2020-09-18T15:01:47.900Z</updated>
+    <content type="application/xml">
+      <copy xmlns="http://worldcat.org/xmlschemas/Copy-1.0" id="https://circ.sd00.worldcat.org/LHR/329367976?inst=75437">
+        <institution>http://www.worldcat.org/webservices/registry/content/Institutions/75437</institution>
+        <bib>/bibs/1130986333</bib>
+        <lastUpdateDate>2020-09-18T11:01:47.900-04:00</lastUpdateDate>
+        <recordType>MULTI_PART</recordType>
+        <receiptStatus>RECEIVED_AND_COMPLETE_OR_CEASED</receiptStatus>
+        <copyNumber>1</copyNumber>
+        <holdingLocation>U3QA</holdingLocation>
+        <shelvingLocation>- Didacthèque - Secondaire - Prêt régulier</shelvingLocation>
+        <shelvingDesignation scheme="LIBRARY_OF_CONGRESS">
+          <information>QA39.3</information>
+          <itemPart>P6515</itemPart>
+        </shelvingDesignation>
+        <holding category="BASIC">
+          <pieceDesignation>X44700406</pieceDesignation>
+          <temporaryLocation>- En traitement</temporaryLocation>
+          <caption sequence="1">
+            <description>Guide-corrigé 5 Sciences naturelles (SN)</description>
+          </caption>
+        </holding>
+        <holding category="BASIC">
+          <pieceDesignation>X44707775</pieceDesignation>
+          <temporaryLocation>- En traitement</temporaryLocation>
+          <caption sequence="2">
+            <description>Cahier d'apprentissage 5 Sciences naturelle (SN)</description>
+          </caption>
+        </holding>
+        <holding category="BASIC">
+          <temporaryLocation>- En traitement</temporaryLocation>
+          <caption sequence="3">
+            <description>Guide-corrigé 5 Culture, société et technique (CST)</description>
+          </caption>
+        </holding>
+        <holding category="BASIC">
+          <pieceDesignation>X44707725</pieceDesignation>
+          <temporaryLocation>- En traitement</temporaryLocation>
+          <caption sequence="4">
+            <description>Cahier d'apprentissage 5 Culture, société et technique (CST)</description>
+          </caption>
+        </holding>
+      </copy>
+    </content>
+  </entry>
+</feed>

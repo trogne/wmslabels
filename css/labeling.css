@@ -1,0 +1,70 @@
+.print-area {
+    margin: 10px auto;
+    width: 385px;
+}
+.print-area > div {
+    display: inline-block;
+    padding: 5px;
+    vertical-align: middle;
+}
+.icon {
+    text-align: center;
+}
+
+.edit_text {
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.1em;
+}
+
+.label_page {
+    width: 800px;
+    margin: 0 auto 40px auto;
+    padding: 10px;
+    border: 1px solid black;
+    font: 14px/1.4 Arial !important;
+    overflow: auto;
+}
+
+.label_container {
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.cnum, .pocket {
+    background-color: #ffffff;
+}
+
+.cnum:hover, .pocket:hover {
+    cursor: pointer;
+    border: 1px dashed #c10037;
+}
+
+.cnum {
+    border: 1px solid black;
+    min-height: 170px;
+    vertical-align: top;
+    width: 20mm;
+    float: left;
+}
+
+.cnum div, .pocket div {
+    padding-left: 5px;
+    white-space: pre-wrap;
+}
+
+.pocket {
+    border: 1px solid black;
+    float: left;
+    min-height: 170px;
+    margin-left: 5px;
+    vertical-align: top;
+    width: 79mm;
+}
+
+.middle_padding {
+    width: 10px;
+    height: 170px;
+    float: left;
+}
