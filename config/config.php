@@ -1,7 +1,7 @@
 <?php
 //Base folder, if any. Leave blank if site is in root web folder.
 #$base_url = '/ilslabel';
-$base_url = '/WMS-Labeling-master';
+$base_url = '/wmslabelsuqtr';
 $site_title = 'Labeling';
 //Default page title
 $page_title = 'ILS Labeling';
