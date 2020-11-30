@@ -34,7 +34,7 @@
     <nav class="wrapper clearfix">
       <ul>
         <li><a href="<?php echo $base_url ?>/form/barcode.php">Barcode Form</a></li>
-        <li><a href="<?php echo $base_url ?>/edit/edit_config.php">Clés</a></li>
+        <!-- <li><a href="<?php echo $base_url ?>/edit/edit_config.php">Clés</a></li> -->
         <li><a href="<?php echo $base_url ?>/edit/edit_crosswalks.php">Shelving</a></li>
         <li><a href="<?php echo $base_url ?>/edit/edit_laser.config.php">Papier</a></li>
       </ul>

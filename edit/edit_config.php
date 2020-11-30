@@ -1,4 +1,5 @@
 <?php
+include(__DIR__ . '/../config/config.php');
 
 // configuration
 $url = 'http://localhost/WMS-Labeling-master/edit/edit_config.php';
@@ -32,4 +33,4 @@ $text = file_get_contents($file);
 <br><br>
 <input type="reset" value="Rafraîchir"/>
 </form>
-<a href="http://localhost/WMS-Labeling-master">Retour<a/>
+<a href="<?php echo $base_url ?>">Retour<a/>
