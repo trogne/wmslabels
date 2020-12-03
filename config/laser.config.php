@@ -1,6 +1,5 @@
 <?php
 /* CONFIG VARIABLES */
-//http://www.tcpdf.org/doc/code/classTCPDF.html#a134232ae3ad1ec186ed45046f94b7755
 $pageFormat = "Letter";
 $pageOrientation = "P";
 $pageRuling = "mm";
@@ -21,7 +20,6 @@ $marginRight = 6;
 $marginTop = 8;
 
 //Font settings
-//http://www.tcpdf.org/doc/code/classTCPDF.html#afd56e360c43553830d543323e81bc045
 $fontFamily = 'helveticaB';
 $fontSize = '10';
 $fontStyle = 'B';

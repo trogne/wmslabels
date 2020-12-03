@@ -270,7 +270,7 @@ function quicklabels($nums, $title_p = "0", $accessToken) {
         	
         	
         	//echo 'Shelvings : <br>', $location;
-        	// my add
+        	// my add // si pas defini, alors affiche rien
         	if (array_key_exists((string)$branch, $shelf_loc) && array_key_exists((string)$location, $shelf_loc[(string)$branch])) {
 				$location_full = $shelf_loc[(string)$branch][(string)$location];	
 			} else {
